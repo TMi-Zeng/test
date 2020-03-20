@@ -19,4 +19,3 @@ i--;
 getch();
 return 0;
 }
-reduar
