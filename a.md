@@ -19,5 +19,4 @@ i--;
 getch();
 return 0;
 }
-
-nizhidoaisfefsfsfejfsf
+dang la zhu dai ti suo you deng 
