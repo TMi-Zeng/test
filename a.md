@@ -20,6 +20,4 @@ getch();
 return 0;
 }
 
-
-
-
+nizhidoaisfefsfsfejfsf
