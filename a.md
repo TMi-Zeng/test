@@ -19,4 +19,4 @@ i--;
 getch();
 return 0;
 }
-dang la zhu dai ti suo you deng 
+langlanglngangalgnalngal
